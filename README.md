@@ -12,6 +12,9 @@
 
 ![Screenshot 2024-12-09 162248](https://github.com/user-attachments/assets/3870b5ac-a70e-4029-a36b-6a126510aded)
 
+![Screenshot 2024-12-09 162302](https://github.com/user-attachments/assets/159e7a41-4c64-43b4-91a3-2a7d6815f7ce)
+
+
 
 ### Objective
 -Enable users to carry out basic arithmetic operations (addition, subtraction, multiplication, division) and advanced operations (exponentiation, modulus).
