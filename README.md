@@ -31,7 +31,7 @@
 -Allow users to exit the program gracefully while displaying their calculation history.
 
 ### Technologies used
--Programming Language: Python
+-Programming Language: Python.
      -Utilizes Python's built-in capabilities for handling user input, performing calculations, and managing data structures (lists).
 -Development Environment: Any text editor or IDE that supports Python (e.g., PyCharm, Visual Studio Code, or even a simple text editor with terminal access).
 -Command-Line Interface (CLI): The application runs in a terminal or command prompt, providing an interactive experience without the need for a graphical userinterface (GUI).
