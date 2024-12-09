@@ -46,3 +46,6 @@
 -Error Handling: Robust error handling ensures that invalid inputs do not crash the program and provides informative messages instead.
 -Extensibility: The modular design allows for easy addition of more mathematical functions or features in future iterations.
 -Educational Value: This project serves as a practical example for beginners learning Python programming concepts such as functions, control flow, and data management.
+
+### Conclusion
+-The Advanced Calculator project is a useful tool for performing various mathematical computations while maintaining a history of calculations for user reference. It serves as both an educational exercise in Python programming and a functional utility that can be further enhanced with additional features.
